@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Joe</string>
+    <string name="send">Send</string>
+    <string name="baymax">baymax</string>
+    <string name="send_content_description">send</string>
+    <string name="ask_joe_something">Ask Joe something..</string>
+</resources>

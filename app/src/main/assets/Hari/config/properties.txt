@@ -1,0 +1,7 @@
+url:http://djustice-android.tumblr.com
+name:Joe
+email:balajiramavathu12@gmail.com
+gender:male
+botmaster:Balaji R
+version:0.0.1
+
